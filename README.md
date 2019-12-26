@@ -1,5 +1,7 @@
 # Machine_Learning
 
+You will need a jupyter notebook in order to run this project and specify the location of the csv files in the code to run the program correctly.
+
 The following csv files correspond to different models:
 
 1) day.csv
